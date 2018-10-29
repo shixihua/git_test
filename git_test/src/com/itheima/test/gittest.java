@@ -11,5 +11,8 @@ public class gittest {
         int i=10*10;
 
     }
+    public void test(){
+        System.out.println("hecfsjhsa");
+    }
 
 }
