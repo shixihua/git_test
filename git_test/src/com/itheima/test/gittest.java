@@ -5,13 +5,13 @@ public class gittest {
         System.out.println("刺激");
         System.out.println("刺激");
         System.out.println("刺激");
-        System.out.println("年轻");
-
-
         int i=10*10;
+        System.out.println(i);
+
 
     }
     public void test(){
+        //这是一个输出
         System.out.println("hecfsjhsa");
     }
 
